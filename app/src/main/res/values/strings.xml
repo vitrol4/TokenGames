@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TokenGames</string>
+    <string name="date_mask">dd/MM/yyyy</string>
+    <string name="error_not_found">Página não encontrada</string>
+    <string name="error_generic">Ocorreu um erro</string>
+    <string name="empty">Lista vazia</string>
+    <string name="release_date">Release Date</string>
+    <string name="see_trailer">Assita o trailer do jogo</string>
+</resources>
